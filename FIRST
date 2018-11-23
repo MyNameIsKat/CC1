@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+University of the Cordilleras
+</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color:#ADD8E6;">
+
+<center>
+<h1 style="color:white;"><b>Gayao, Katrina D.</b></h1>
+</center>
+
+<!-- This is where i applied my comment 
+	style=font family
+-->
+<h1 style ="font-family:verdana;">University of the Cordilleras 1</h1>
+<!-- This is where i my subscript and my superscript-->
+<h2>University <sub>of the</sub> Cordilleras 2</h2>
+<h3>University <sup>of the</sup> Cordilleras 3</h3>
+<i>
+<h4>University of the Cordilleras 4</h4>
+</i>
+<h5>University of the Cordilleras 5</h5>
+<h6>University of the Cordilleras 6</h6>
+
+<img src="tongue.jpeg" alt="Tongue Twister" style="float:left;width:42px;height:42px;">
+<b><p>TONGUE TWISTERS</p><b>
+<br>
+<p style="text-align:center"><strong>The quick brown fox jumps over the lazy dog. </strong><del>The quick brown fox jumps over the lazy dog.</del><ins>The quick brown fox jumps over the lazy dog.</ins> <q>The quick brown fox jumps over the lazy dog.</q> The quick brown fox jumps over the lazy dog.</p>
+<a href="https://www.uc-bcf.edu.ph/">UC</a>
+<p><em>Minikaniko ni Moniko ang makina ng manika ni Monika.</em><small> Minikaniko ni Moniko ang makina ng manika ni Monika.</small> <mark>Minikaniko ni Moniko ang makina ng manika ni Monika.</mark> Minikaniko ni Moniko ang makina ng manika ni Monika. Minikaniko ni Moniko ang makina ng manika ni Monika.</p>
+<a href="https://www.ABS-CBN.ph/">ABS-CBN</a><br>
+<img src="duterte.jpg" alt="UC" width="200" height="200">
+<button title="Rodrigo Duterte">RD</button>
+<img src="robredo.jpg" alt="UC" width="200" height="200">
+<button title="Leni Robredo">LR</button>
+
+<h4 style="font-size:300%">Senators (12)</h4>
+<ul>
+  <li style="color:Tomato;">Sonny Angara</li>
+  <li style="color:DodgerBlue;">Bam Aquino</li>
+  <li style="color:MediumSeaGreen;">Nancy Binay</li>
+  <li style="border:2px solid Tomato;">JV Ejercito</li>
+  <li style="border:2px solid DodgerBlue;">Francis Escudero</li>
+  <li style="border:2px solid Violet;">Gregorio Honasan</li>
+  <li>Loren Legarda</li>
+  <li>Koko Pimentel</li>
+  <li>Grace Poe</li>
+  <li>Antonio Trillanes</li>
+  <li>Cynthia Villar</li>
+  <li>Franklin Drilon</li>
+</ul>  
+<bdo dir="rtl">
+<h4 style="font-size:300%">Senators (12)</h4>
+
+<ol>
+  <li><bdo dir="rtl">Joel Villanueva</bdo></li>
+  <li style="color:Tomato;">Tito Sotto</li>
+  <li style="color:DodgerBlue;">Panfilo Lacson</li>
+  <li style="color:MediumSeaGreen;">Richard J. Gordon</li>
+  <li>Juan Miguel Zubiri</li>
+  <li>Manny Pacquiao</li>
+  <li>Francis Pangilinan</li>
+  <li>Risa Hontiveros</li>
+  <li>Win Gatchalian</li>
+  <li>Ralph Recto</li>
+  <li>Leila de Lima</li>
+  <li>Milk de Melk</li>
+</ol> 
+</bdo>
+
+<h3>Quote</h3>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, <abbr title="World Health Organization">WHO</abbr> has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
+<br>
+<h3>Address</h3>
+<address>
+Written by John Doe.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+<h3>Click On this image to know more about me!!!<h3>
+<a href="file:///Z:/Gayao,%20Katrina/Project%201/Project%202%20(Biography)/second.html">
+<img src="galaxy.gif" alt="GALAXY">
+</a>
+</body>
+</html>
