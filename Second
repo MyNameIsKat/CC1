@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Biography</title>
+	<meta charset="UTF-8">
+	<style>
+	body {background-color: powderblue;}
+	h1   {color: white;}
+	p    {color: #696969;}
+	</style>
+</head>
+	<body style="background-color:powderblue;">
+		<center>
+			<i><h1 style="color:white">My Profile</h1></i>
+			<hr>
+			<h3 style="color:#5F9EA0">My name's Katrina Gayao</h3>
+			<p>Before you know me, I'd like to know you</p>
+			<p>What's your name?</p>
+			<input type="text" onblur="myFunction()">
+			<script>
+				function myFunction() {
+    				alert("ewwwwwwwwwwww");
+				}
+			</script>
+			<p style ="font-family:verdana;">click outside the box</p>
+			<h3 style="color:#696969">Now scroll down :)</h3>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<hr>
+			<br>
+			
+		</center>
+
+		<h2>Things i don't like</h2>
+		<ul>
+  			<li>Stories</li>
+  			<li>Colors</li>
+  			<li>Flowers like the one at the bottom</li>
+		</ul>  
+		
+		<img src="Flowers.jpg" width="100" height="100" alt="flowers">
+
+		<h2>Things I don't like</h2>
+
+		<ol>
+  			<li>Stress</li>
+  			<li>links that doesnt match the background color</li>
+			<a href="https://www.w3schools.com">like this</a>
+ 			<li >Buttons that dont do anything like the one down there</li>
+		</ol> 
+			
+		<button title="i dont do anything">am a button</button>
+
+	</body>
+</html>
